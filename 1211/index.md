@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pdf
 title: Winter 2021
 nav_order: 11
 ---

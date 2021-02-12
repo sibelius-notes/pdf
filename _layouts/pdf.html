@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<ul>
+{% for file in site.static_files %}
+  {% if file.extname == ".pdf" and file.path contains page.url -%}
+    <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.basename }}</a></li>
+  {%- endif %}
+{% endfor %}
+</ul>
