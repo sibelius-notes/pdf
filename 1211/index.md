@@ -4,18 +4,6 @@ title: Winter 2021
 nav_order: 11
 ---
 
-[CO 331](co331.pdf)
+phone pictures below are from [https://tex.stackexchange.com/a/479893](https://tex.stackexchange.com/a/479893).
 
-[CO 450](co450.pdf)
-
-[CO 487](co487.pdf)
-
-[CS 146](cs146.pdf)
-
-[CS 365](cs365.pdf)
-
-[CS 479](cs479.pdf)
-
-[CS 486](cs486.pdf)
-
-[PMATH 433](pmath433.pdf)
+chacha20 is from [wiki](https://commons.wikimedia.org/wiki/File:ChaCha_Cipher_Quarter_Round_Function.svg)
