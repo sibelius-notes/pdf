@@ -21,6 +21,7 @@ Typically, the term folder that a pdf belongs doesn't necessarily reflects the t
 
 ## Statistics
 - Number of pdfs: {{ count }}
-- Word count: Later
+- Word count: {% include word.html %}
+- Page count: {% include page.html %}
 
 Last updated: {% include ts.html %}
