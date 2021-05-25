@@ -12,5 +12,5 @@ do
     page=$((page + p))
 done
 
-echo $word > _includes/word.html
-echo $page > _includes/page.html
+echo -n $word > _includes/word.html
+echo -n $page > _includes/page.html
